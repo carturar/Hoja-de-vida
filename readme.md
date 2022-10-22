@@ -42,6 +42,8 @@ window.addEventListener('DOMContentLoaded', event => {
 
 
 ####Carlos Arturo Arias Ospina
+####Viviana Restrepo Quintero
+####Luis Javier Velez uribe
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
